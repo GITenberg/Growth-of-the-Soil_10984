@@ -1,0 +1,41 @@
+_repo: Growth-of-the-Soil_10984
+_version: 0.0.1
+alternative_title: Markens grøde. English
+contributor:
+  translator:
+    agent_name: Worster, W. J. Alexander (William John Alexander)
+    aliases:
+    - Worster, W. W.
+    - Worster, William John Alexander
+    birthdate: 1882
+    deathdate: 1929
+    gutenberg_agent_id: '2514'
+    url: http://www.gutenberg.org/2009/agents/2514
+creator:
+  author:
+    agent_name: Hamsun, Knut
+    aliases:
+    - Gamsun, Knut
+    - Thode, Knut
+    - Hamsund, Knut Pedersen
+    - Pedersen, Knut
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '2376'
+    url: http://www.gutenberg.org/2009/agents/2376
+    wikipedia: http://en.wikipedia.org/wiki/Knut_Hamsun
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10984'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norway -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: Growth of the Soil
+url: http://www.gutenberg.org/ebooks/10984
